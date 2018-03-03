@@ -1,14 +1,7 @@
 # hello-travis
 
-A Clojure library designed to ... well, that part is up to you.
+Toy project to learn how travis-ic works
 
 ## Usage
 
-FIXME
-
-## License
-
-Copyright © 2018 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+There is no specific goal for this project except getting used to clojure language itself and writing 
