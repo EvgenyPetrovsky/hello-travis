@@ -1,6 +1,6 @@
-# hello-travis
+[![Build Status](https://travis-ci.org/EvgenyPetrovsky/hello-travis.svg?branch=master)](https://travis-ci.org/EvgenyPetrovsky/hello-travis)
 
-Toy project to learn how travis-ic works
+This is oy project to learn how travis-ci works
 
 ## Usage
 
